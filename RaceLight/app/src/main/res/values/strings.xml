@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RaceLight</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Name</string>
+    <string name="back">Home</string>
+    <string name="launch">Launch</string>
+    <string name="ranking">Show Rankings</string>
+    <string name="instructions">This is a race track stimulation to train drivers for better reaction times
+    \n\n\nHere\'s how you can use this app:
+    \n\n1. Press Start to launch racing mode
+    \n\n2. Once you see the sign to GO! Drive as quickly as you can!
+    \n\n3. Follow instructions to write your name and save.
+    \n\n4. Press Rankings to see any information regarding top 5 driver\'s response times.</string>
+</resources>
